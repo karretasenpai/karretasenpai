@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karretasenpai
+- 👋 Hi, I’m @Drogarialara"s
 - 👀 I’m interested in ...python end javascript
 - 🌱 I’m currently learning ...python end javascript
 - 💞️ I’m looking to collaborate on ...app development
